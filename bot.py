@@ -14,7 +14,7 @@ import urllib
 import io
 
 bot = Bot("olbzhsdtdyzyzuywconsporcjeubtllz")
-target = "g0CTtry0175364eca516f4bba0a0b237"
+target = "g0CTbCY0ef2649c77f3f9ac4297437f0"
 
 def hasAds(msg):
 	links = ["http://","https://",".ir",".com",".org",".net",".me"]
