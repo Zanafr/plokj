@@ -1,4 +1,5 @@
 mutagen
 gtts
 requests
+colorama
 rubika
