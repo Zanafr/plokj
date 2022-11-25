@@ -13,8 +13,8 @@ import random
 import urllib
 import io
 
-bot = Bot("olbzhsdtdyzyzuywconsporcjeubtllz")
-target = "g0CTbCY0ef2649c77f3f9ac4297437f0"
+bot = Bot("nnskeysqufomuumkcgcnpkvlqjhjxxvt")
+target = "g0CSZyT051e8cc453c30d94652e1d768"
 
 def hasAds(msg):
 	links = ["http://","https://",".ir",".com",".org",".net",".me"]
